@@ -12,6 +12,7 @@ cover.png
 .github
 CONTRIBUTING.MD
 CODE_OF_CONDUCT.md
+readme.npm.md
 
 # misc
 .commitlintrc.json
