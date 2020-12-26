@@ -1,5 +1,5 @@
 import { DriverJob } from "./driverJob";
-import { Message } from "./Message";
+import { Message } from "./message";
 
 export interface QueueDriver {
   push(message: string, rawMessage: Message): Promise<void>;
