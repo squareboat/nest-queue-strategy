@@ -9,4 +9,6 @@ export interface QueueDriver {
   remove(job: DriverJob, options: Record<string, any>): Promise<void>;
 
   purge(options: Record<string, any>): Promise<void>;
+
+  count(options: Object): Promise<number>;
 }

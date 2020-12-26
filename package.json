@@ -1,6 +1,6 @@
 {
   "name": "@squareboat/nest-queue-strategy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The queue strategy package for your NestJS Applications",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
