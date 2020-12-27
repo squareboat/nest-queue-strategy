@@ -10,5 +10,7 @@ export interface QueueDriver {
 
   purge(options: Record<string, any>): Promise<void>;
 
-  count(options: Object): Promise<number>;
+  count(options: Record<string, any>): Promise<number>;
+
+  scheduledTask?(options: Record<string, any>): Promise<void>;
 }
