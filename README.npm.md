@@ -7,13 +7,13 @@ To know more about nest-queue package, [click here](https://squareboat.com/open-
 ## Supported Queues
 
 - Sync (Added by default in [@squareboat/nest-queue](https://squareboat.com/open-source/nest-queue/))
-- AWS SQS ([@squareboat/nest-queue-sqs](https://squareboat.com/open-source/nest-queue/))
-- Redis ([@squareboat/nest-queue-redis](https://squareboat.com/open-source/nest-queue/))
+- AWS SQS ([@squareboat/nest-queue-sqs](https://github.com/squareboat/nest-queue-sqs))
+- Redis ([@squareboat/nest-queue-redis](https://github.com/squareboat/nest-queue-redis))
 - RabbitMQ (Coming Soon)
 
 ## Documentation
 
-To read the complete documentation, [click here](https://squareboat.com/open-source/nest-queue/strategies).
+To read the complete documentation, [click here](https://squareboat.com/open-source/nest-queue/docs/drivers).
 
 ## Contributing
 
